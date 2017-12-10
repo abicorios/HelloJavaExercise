@@ -18,6 +18,7 @@ pacman -S jdk9-openjdk git
 ```
 # Compiling and run
 **Windows**
+
 Make in the PowerShell
 ```
 git clone https://github.com/abicorios/HelloJavaExercise
@@ -26,6 +27,7 @@ javac hello.java
 java hello
 ```
 **Android**
+
 For go in the TermuxArch run **startarch** command from Termux terminal.
 Make in the TermuxArch
 ```
